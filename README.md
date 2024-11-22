@@ -128,6 +128,7 @@ const Counter = () => {
 Here, `count` is the state of the `Counter` component, managed using `useState`.
 
 Reference: https://react.dev/learn/state-a-components-memory
+
 ---
 
 ## Props in Components
