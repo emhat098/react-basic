@@ -111,6 +111,7 @@ JSX represents the UI of React components, resembling HTML but with stricter rul
    ```
 
 Reference: https://react.dev/learn/writing-markup-with-jsx
+
 ---
 
 ## State in Components
